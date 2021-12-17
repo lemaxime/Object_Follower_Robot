@@ -32,7 +32,7 @@ In our proof of concept, the robot must chase a cup of coffee.
 
 ### Procedure
 #### Robot connections
-![Circuit diagram](https://github.com/lemaxime/Object_Follower_Robot/blob/2a72fdba54e8b2cac394b938bfafca66162d9d33/Circuit_diagram.HEIC)
+![Circuit diagram](https://github.com/lemaxime/Object_Follower_Robot/blob/fd28d27f9b00095612e19588cb64ee04eb7434ba/Circuit_diagram.jpg)
 
 #### Installing Raspberry Pi 4
 We choose to install Raspberry using SSH (Secure Shell) to avoid spending ressources with the UX. It's an easy procedure as long as you follow those steps :
